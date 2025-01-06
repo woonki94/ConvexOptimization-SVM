@@ -14,7 +14,7 @@ This repository provides implementations for:
    - **Alternating Direction Method of Multipliers (ADMM)**
 3. Visualization of classifiers and error reporting.
 4. Comparative analysis of optimization methods through iteration vs. objective value and time vs. objective value plots.
-5. A detailed report written in NeurIPS-style format summarizing the implementation and results, available [here](./report/report.pdf).
+5. A detailed report explaining the methodology, results, and insights is available in the `report` directory. Access it [here](./report/report3_Woonki_Kim.pdf).
 
 ---
 
@@ -47,6 +47,3 @@ This repository provides implementations for:
 
 ### Error Reporting:
 - Classification errors reported for all methods and datasets.
-
-### Report:
-A detailed report explaining the methodology, results, and insights is available in the `report` directory. Access it [here](./report/report3_Woonki_Kim.pdf).
